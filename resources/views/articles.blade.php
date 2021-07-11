@@ -7,7 +7,7 @@
 @endsection
 
 @section ('content')
-<a href="/">Terug naar hoofdpagina2</a>
+<a href="/">Terug naar hoofdpagina</a>
     <h1 class="h1">Artikelen:</h1>
 
     @foreach ($articles as $article)
